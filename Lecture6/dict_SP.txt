@@ -1,0 +1,5 @@
+casa 33
+árbol 45
+silla 32
+puerta 12
+salón 12

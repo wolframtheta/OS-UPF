@@ -1,0 +1,4 @@
+house 33
+language 45
+car 12
+lounge 12
